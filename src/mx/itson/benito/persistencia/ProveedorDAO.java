@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package mx.itson.benitto.persistencia;
+package mx.itson.benito.persistencia;
 
 import java.util.ArrayList;
 import java.util.List;
 import javax.persistence.criteria.CriteriaQuery;
-import mx.itson.benitto.entidades.Proveedor;
-import mx.itson.benitto.utilerias.HibernateUtil;
+import mx.itson.benito.entidades.Proveedor;
+import mx.itson.benito.utilerias.HibernateUtil;
 import org.hibernate.HibernateException;
 import org.hibernate.Session;
 

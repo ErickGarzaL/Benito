@@ -2,12 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package mx.itson.benitto.ui;
+package mx.itson.benito.ui;
 
 import java.util.List;
 import javax.swing.table.DefaultTableModel;
-import mx.itson.benitto.entidades.Articulo;
-import mx.itson.benitto.persistencia.ArticuloDAO;
+import mx.itson.benito.entidades.Articulo;
+import mx.itson.benito.persistencia.ArticuloDAO;
 
 /**
  *
